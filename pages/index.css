@@ -55,6 +55,7 @@
   letter-spacing: -0.6px;
   font-weight: 500;
   line-height: 72px;
+  z-index: 1;
 }
 
 .header__description {
